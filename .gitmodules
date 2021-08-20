@@ -1,0 +1,4 @@
+[submodule "fireck"]
+	path = fireck
+	url = https://github.com/rromikas/fireck-dboard.git
+	branch = master

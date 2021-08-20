@@ -1,0 +1,4 @@
+[build]
+  publish = "fireck/build"
+  functions = "fireck/functions"
+  command = ""
