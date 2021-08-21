@@ -1,4 +1,5 @@
 [build]
   publish = "fireck/build"
   functions = "fireck/functions"
+  base = "fireck"
   command = ""
